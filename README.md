@@ -2,6 +2,10 @@
 
 A responsive web application that provides detailed information about countries around the world. Users can search, filter, and explore countries, view detailed information, and save their favorite countries.
 
+## Live Demo
+
+**Live Application:** [Where in the World](https://where-intheworld.netlify.app/)
+
 ## Features
 
 - **Browse Countries**: View all countries with essential information
